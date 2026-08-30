@@ -1,0 +1,60 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Software Engineer profile banner">
+  <defs>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0C10" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#0A0C10" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0A0C10" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="#0A0C10"/>
+
+  <!-- background architecture grid, right side -->
+  <g stroke="#1C2128" stroke-width="1">
+    <line x1="620" y1="0" x2="620" y2="220"/>
+    <line x1="700" y1="0" x2="700" y2="220"/>
+    <line x1="780" y1="0" x2="780" y2="220"/>
+    <line x1="860" y1="0" x2="860" y2="220"/>
+    <line x1="940" y1="0" x2="940" y2="220"/>
+    <line x1="1020" y1="0" x2="1020" y2="220"/>
+    <line x1="1100" y1="0" x2="1100" y2="220"/>
+    <line x1="1180" y1="0" x2="1180" y2="220"/>
+    <line x1="600" y1="30" x2="1200" y2="30"/>
+    <line x1="600" y1="80" x2="1200" y2="80"/>
+    <line x1="600" y1="140" x2="1200" y2="140"/>
+    <line x1="600" y1="190" x2="1200" y2="190"/>
+  </g>
+
+  <!-- node graph signature: a few connected nodes suggesting a system diagram -->
+  <g stroke="#2A3038" stroke-width="1.5" fill="none">
+    <line x1="700" y1="30" x2="780" y2="80"/>
+    <line x1="780" y1="80" x2="860" y2="30"/>
+    <line x1="780" y1="80" x2="780" y2="140"/>
+    <line x1="780" y1="140" x2="940" y2="140"/>
+    <line x1="940" y1="140" x2="1020" y2="80"/>
+    <line x1="940" y1="140" x2="940" y2="190"/>
+    <line x1="1020" y1="80" x2="1100" y2="30"/>
+    <line x1="1100" y1="30" x2="1180" y2="80"/>
+  </g>
+  <g fill="#4FD1C5">
+    <circle cx="700" cy="30" r="3"/>
+    <circle cx="780" cy="80" r="4"/>
+    <circle cx="860" cy="30" r="3"/>
+    <circle cx="780" cy="140" r="3.5"/>
+    <circle cx="940" cy="140" r="4.5"/>
+    <circle cx="1020" cy="80" r="3"/>
+    <circle cx="940" cy="190" r="3"/>
+    <circle cx="1100" cy="30" r="3"/>
+    <circle cx="1180" cy="80" r="3"/>
+  </g>
+
+  <rect width="1200" height="220" fill="url(#fade)"/>
+
+  <!-- identity block, left aligned -->
+  <text x="60" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" fill="#E6E8EB" font-weight="600">Vishal Sharma</text>
+  <text x="60" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#4FD1C5">Software Engineer</text>
+  <text x="60" y="166" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" fill="#7D8590">Backend &#183; Systems &#183; Data Structures &amp; Algorithms &#183; Full-Stack</text>
+
+  <!-- accent underline -->
+  <rect x="60" y="180" width="46" height="3" fill="#4FD1C5"/>
+</svg>

@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Vishal Sharma, software engineer: Java, backend, full stack and AI. Currently building SellerLensIQ. Selected work, engineering stack, 176+ LeetCode problems solved, internship, certifications and direction." width="100%">
+  <img src="./dark.svg" alt="Vishal Sharma, software engineer: Java, backend, full stack and AI. Featured Project SellerLensIQ. Selected work, engineering stack, 176+ LeetCode problems solved, internship, certifications and direction." width="100%">
 </picture>
 
 **[LinkedIn](https://linkedin.com/in/vishalsh1)  ·  [LeetCode](https://leetcode.com/u/Vishal_cd/)**
@@ -11,7 +11,7 @@
 <details>
 <summary>Text version</summary>
 
-**About.** Software Engineer — Java · Backend · Full Stack · AI. I build backend systems and full-stack products, mostly in Java and Spring Boot, with PostgreSQL underneath. I care about clean APIs, sound database design and authentication done properly, and I'm steadily extending that into system design, DevOps and AI integration.
+**About.** Software Engineer — Java · Backend · Full Stack · AI. I build backend systems and full-stack products, mostly in Java and Spring Boot. I care about clean APIs, sound database design and authentication done properly, and I'm steadily extending that into system design, DevOps and AI integration.
 
 **Current build.** SellerLensIQ — Amazon keyword research and listing SEO platform. Java · Spring Boot · PostgreSQL. In development; not deployed.
 

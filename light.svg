@@ -17,7 +17,7 @@
 <path d="M48 52H912" stroke="#CBD5E1"/>
 <g>
 <text x="48" y="108" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" letter-spacing="3" fill="#2563EB">HELLO, I'M</text>
-<text x="48" y="160" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#0F172A">YOUR NAME</text>
+<text x="48" y="160" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="#0F172A">Vishal Sharma</text>
 <text x="48" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#2563EB">Software Engineer</text>
 <text x="48" y="228" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" fill="#334155">Java · Backend · Full Stack · AI</text>
 <path d="M48 250H120" stroke="url(#ac)" stroke-width="2"/>

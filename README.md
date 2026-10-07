@@ -1,24 +1,44 @@
-<img src="./assets/banner.svg" alt="Software Engineer" width="100%" />
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Personal engineering profile">
+</picture>
+</div>
 
-Software engineer working across backend systems, data structures & algorithms, and full-stack development — building toward stronger work in system design, distributed systems, and AI-powered applications as each project matures.
+## About
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+I build backend systems and full-stack products, mostly in Java and Spring Boot, with PostgreSQL underneath. I care about clean APIs, sound database design and authentication done properly, and I'm steadily extending that into system design, DevOps and AI integration.
 
-### Focus
+## Current Focus
 
-**Backend & Systems** — API design, data modeling, architecture fundamentals
-**Data Structures & Algorithms** — problem-solving as a daily practice, not a one-time prep exercise
-**Full-Stack** — frontend and backend together, not just one side of the wire
-**AI-powered applications** — an active area I'm building into, not yet a portfolio of shipped work
+**SellerLensIQ** — an Amazon keyword research and listing SEO platform. *Currently building; in development, not deployed.*
+`Java · Spring Boot · PostgreSQL` · [Repository](https://github.com/USERNAME/REPO)
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+## Selected Projects
 
-### Repository
+<!-- Add 2–3 projects: name, one factual line, stack, status, repo link -->
 
-**[java-core-foundations](https://github.com/CodewithVishal73/java-core-foundations)** — core Java language and standard library practice: OOP, collections, exception handling, Java 8 streams, multithreading, and problem-solving exercises. This is foundation work, not a flagship project — treat it as evidence of fundamentals, not the ceiling of what I build.
+## Engineering Stack
 
-More repositories will appear here as they're built — this section grows with real work, not placeholders.
+| | |
+|---|---|
+| **Languages** | Java · C++ |
+| **Backend** | Spring Boot · REST APIs |
+| **Data** | PostgreSQL |
+| **Concepts** | DSA · System Design · Authentication |
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+## Problem Solving
 
-📫 **Contact:** [vishal.sharma.tech1@gmail.com](mailto:vishal.sharma.tech1@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/vishalsh1)
+LeetCode — 176+ problems solved · Java, C++
+
+## Certifications
+
+- IBM — Professional Java Developer
+- Google — Prompting Essentials
+- Google — Foundations of Data Science
+- McKinsey Forward Program
+
+## Connect
+
+[GitHub](https://github.com/USERNAME) · [LinkedIn](https://linkedin.com/in/USERNAME) · [LeetCode](https://leetcode.com/u/USERNAME)

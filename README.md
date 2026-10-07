@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=4">
-  <img src="./dark.svg?v=4" alt="Vishal Sharma, Software Engineer: Java, Backend, Full Stack, AI" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=5">
+  <img src="./dark.svg?v=5" alt="Vishal Sharma, Software Engineer: Java, Backend, Full Stack, AI" width="100%">
 </picture>
 </div>
 
@@ -90,7 +90,16 @@ Amazon keyword research and listing SEO platform.
 <br><br>
 </td>
 <td width="45%" align="center" valign="top">
+<br>
 <pre>
+┌──────────┐
+│   API    │
+└────┬─────┘
+     ▼
+┌──────────┐
+│ Service  │
+└────┬─────┘
+     ▼
 ┌──────────┐
 │ Keywords │
 └────┬─────┘
@@ -107,6 +116,7 @@ Amazon keyword research and listing SEO platform.
 ║   SEO    ║
 ╚══════════╝
 </pre>
+<br>
 </td>
 </tr>
 </table>
@@ -249,6 +259,8 @@ Backend Architecture
 </td>
 </tr>
 </table>
+
+<br>
 
 <div align="center"><sub>Direction, not proficiency.</sub></div>
 
